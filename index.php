@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Last FM API</title>
+	<title>lastfm.jeromelachaud.com</title>
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	<script src="js/trianglify.min.js"></script>
