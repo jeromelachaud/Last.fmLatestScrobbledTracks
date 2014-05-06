@@ -1,7 +1,10 @@
 Last.fm - Latest Tracks
 ====================
 
-Small app that displays your latest tracks scrobbled on Last.fm, using the Last.fm API
+Small app that displays your latest tracks scrobbled on Last.fm, using the Last.fm API.
+
+See an example here : http://lastfm.jeromelachaud.com/
+
 
 Tools
 -----------
