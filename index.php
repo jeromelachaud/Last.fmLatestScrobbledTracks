@@ -16,7 +16,7 @@
 			x_gradient: Trianglify.colorbrewer.PuBu[9],
 			y_gradient: Trianglify.colorbrewer.RdPu[3],
 			});
-		var pattern = t.generate(1276, 5400);
+		var pattern = t.generate(2276, 5400);
 		document.body.setAttribute('style', 'background-image: '+pattern.dataUrl);
 		console.log(pattern);
 	</script>
