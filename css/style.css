@@ -608,3 +608,15 @@ li {
 
 .date {
   font-size: 80%; }
+
+/*------------------------------------*\
+ RESPONSIVE
+\*------------------------------------*/
+@media screen and (max-width: 740px) {
+  .wrapper {
+    width: 100%; }
+
+  .logo {
+    width: 100%;
+    text-align: center;
+    position: relative; } }
