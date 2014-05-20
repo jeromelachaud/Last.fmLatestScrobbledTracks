@@ -14,4 +14,5 @@ Tools
 
 [Last.fm]:http://www.lastfm.fr/api
 [Grafikart]:http://www.grafikart.fr/tutoriels/php/lastfm-api-267
-[Trianglify]:httphttps://github.com/qrohlf/trianglify
+[Trianglify]:https://github.com/qrohlf/trianglify
+	
