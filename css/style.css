@@ -588,7 +588,8 @@ ul {
   padding-bottom: 3rem; }
 
 .logo img {
-  width: 10%;
+  width: 150px;
+  height: 45px;
   opacity: 0.3; }
 
 .grid {
