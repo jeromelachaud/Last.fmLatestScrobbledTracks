@@ -9,7 +9,7 @@ See an example here : http://lastfm.jeromelachaud.com/
 Tools
 -----------
 * [Last.fm] - Last.fm API
-* [Grafikart] - Last.fm script
+* [Grafikart] - Grafikart script
 * [Trianglify] - poly style background generator
 
 [Last.fm]:http://www.lastfm.fr/api
