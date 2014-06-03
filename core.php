@@ -20,9 +20,9 @@ class LastFM {
 	}
 }
 
-	$apiKey = "5fac3e93c05bc557b45e4ab4843b7882";
+	$apiKey = "your_api_key_here";
 	$lastfm = new LastFM($apiKey);
-	$userID = 'PatBateman75';
-	$tracks = $lastfm->getRecentTracks('PatBateman75');
+	$userID = 'your_lastfm_id_here';
+	$tracks = $lastfm->getRecentTracks('your_lastfm_id_here');
 
 ?>
