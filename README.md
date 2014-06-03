@@ -1,4 +1,4 @@
-Last.fm - Latest Tracks
+Last.fm - Latest Scrobbled Tracks
 ====================
 
 Small app that displays your latest scrobbled tracks.
